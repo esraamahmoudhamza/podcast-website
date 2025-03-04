@@ -5,6 +5,7 @@ I developed a podcast website using HTML, CSS, and JavaScript. The platform feat
 
 
 ![Image](https://github.com/user-attachments/assets/0aa4fec6-614c-45ab-81ee-b7482d805e9d)
+<br/>
 ![Image](https://github.com/user-attachments/assets/875424e2-435f-4057-9afc-662aefdc1d1b)
 ![Image](https://github.com/user-attachments/assets/c44c313c-d658-41c5-a706-a5cdb2577f17)
 ![Image](https://github.com/user-attachments/assets/3711a1dc-3b23-457b-8908-2cbf666b94c1)
