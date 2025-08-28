@@ -15,7 +15,7 @@ This is a simple podcast website built using **HTML**, **CSS**, and **JavaScript
 3. Enjoy!
 
 ## Demo
-You can check the video demo on my [YouTube channel](https://www.youtube.com/@EsraaCodes-e7j)
+You can check the video demo on my [YouTube channel](https://www.youtube.com/@EsraaCodes)
 
 ---
 
