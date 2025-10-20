@@ -1,23 +1,63 @@
-# Podcast Website 🎙️
+# 🎧 Podcast Website
 
-This is a simple podcast website built using **HTML**, **CSS**, and **JavaScript**.
-
-## Features
-- Home page with intro section
-- Try For Free section with 4 categories: Islamic, Programming, Health, Philosophy
-- Audio player and video pages
-- Social media links and contact form
-- Clean and responsive design
-
-## How to use
-1. Clone the repo
-2. Open `index.html` in your browser
-3. Enjoy!
-
-## Demo
-You can check the video demo on my [YouTube channel](https://www.youtube.com/@EsraaCodes)
+A sleek and responsive **Podcast Website** built using **HTML**, **CSS**, and **JavaScript**.
+This project showcases modern web design principles with a focus on usability, interactivity, and clean structure.
 
 ---
 
-💻 **Developed by [Esraa Mahmoud Hamza](https://github.com/esraamahmoudhamza)**
+## 🚀 Features
 
+✅ Fully responsive design for all devices
+✅ Interactive homepage with an engaging intro section
+✅ “Try For Free” area featuring 4 podcast categories:
+
+* Islamic
+* Programming
+* Health
+* Philosophy
+  ✅ Built-in audio player and dedicated video pages
+  ✅ Functional contact form and social media integration
+  ✅ Smooth user experience with minimal, clean UI
+
+---
+
+## 🛠️ How to Run
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/esraamahmoudhamza/Podcast-Website.git
+   ```
+2. Open the `index.html` file in your browser
+3. Enjoy exploring the podcast experience 🎙️
+
+---
+
+
+## ⭐ Like this project?
+
+If you found it useful, don’t forget to **star ⭐ the repo** and check out more cool projects on [YouTube – Esraa Codes](https://www.youtube.com/@EsraaCodes).
+
+---
+
+## 🔗 Follow Me
+Stay connected and follow for more projects & tutorials 🚀  
+
+- 📸 [Instagram](https://www.instagram.com/esraa_codes)  
+- 🎵 [TikTok](https://www.tiktok.com/@esraa.codes)  
+- ▶️ [YouTube](https://www.youtube.com/@EsraaCodes)  
+- 🌐 [GitHub](https://github.com/esraamahmoudhamza)
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.
+
+### ⚖️ Attribution
+
+This project was created by **Esraa Mahmoud Hamza**.
+If you use, modify, or share this project, you **must give proper credit** by linking back to the original repository:
+👉 [https://github.com/esraamahmoudhamza/podcast-website](https://github.com/esraamahmoudhamza/podcast-website)
+
+© 2025 Esraa Mahmoud Hamza. All rights reserved.
